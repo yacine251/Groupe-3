@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Projet
 {
-    class Log
+    class Log : File
     {
+        public  Log()
+        {
+            backupName = "";
+        }
     }
 }

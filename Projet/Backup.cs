@@ -6,5 +6,9 @@ namespace Projet
 {
     class Backup
     {
+        public Backup()
+        {
+
+        }
     }
 }

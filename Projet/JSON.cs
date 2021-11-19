@@ -6,6 +6,8 @@ namespace Projet
 {
     class JSON
     {
-        ///salut
+        public JSON()
+        {
+        }
     }
 }
